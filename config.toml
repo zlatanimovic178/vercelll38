@@ -1,0 +1,4 @@
+baseURL = "https://letsheetmusicfoo.vercel.app"
+languageCode = "en-us"
+title = "Let Sheet Music For You"
+theme = "hugo-theme-minos"
